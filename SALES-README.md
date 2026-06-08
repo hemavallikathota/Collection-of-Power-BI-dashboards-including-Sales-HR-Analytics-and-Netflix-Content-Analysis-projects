@@ -1,0 +1,13 @@
+## Overview
+Interactive Power BI dashboard analyzing sales, profit, and regional performance.
+
+## Tools Used
+- Power BI
+- Excel
+- Power Query
+- DAX
+
+## Key Insights
+- West region generated highest sales.
+- Technology category contributed maximum profit.
+- Discounts impacted profitability.
